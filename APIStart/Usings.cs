@@ -1,0 +1,11 @@
+﻿global using APIStart.Contexts;
+global using APIStart.Repositories.Implementations;
+global using APIStart.Repositories.Interfaces;
+global using Microsoft.EntityFrameworkCore;
+global using APIStart.Models.Common;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.Linq.Expressions;
+global using APIStart.Models;
+global using APIStart.DTOs.ServiceDtos;
+global using Microsoft.AspNetCore.Mvc;
+global using APIStart.DTOs.ProductDtos;
